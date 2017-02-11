@@ -1,0 +1,6 @@
+C:\Work\Training\NeuralNetworks\FeedForward\FeedForward\bin\Debug\FeedForward.exe.config
+C:\Work\Training\NeuralNetworks\FeedForward\FeedForward\bin\Debug\FeedForward.exe
+C:\Work\Training\NeuralNetworks\FeedForward\FeedForward\bin\Debug\FeedForward.pdb
+C:\Work\Training\NeuralNetworks\FeedForward\FeedForward\obj\Debug\FeedForward.csprojResolveAssemblyReference.cache
+C:\Work\Training\NeuralNetworks\FeedForward\FeedForward\obj\Debug\FeedForward.exe
+C:\Work\Training\NeuralNetworks\FeedForward\FeedForward\obj\Debug\FeedForward.pdb

@@ -1,0 +1,1 @@
+﻿Male,25,Rural,63000.00,Conservative Female,36,Suburban,55000.00,Liberal Male,40,Urban,74000.00,Moderate Female,23,Rural,28000.00,Liberal

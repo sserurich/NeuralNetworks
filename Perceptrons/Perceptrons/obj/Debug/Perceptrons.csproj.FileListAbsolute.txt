@@ -1,0 +1,6 @@
+C:\Work\Training\NeuralNetworks\Perceptrons\Perceptrons\bin\Debug\Perceptrons.exe.config
+C:\Work\Training\NeuralNetworks\Perceptrons\Perceptrons\obj\Debug\Perceptrons.csprojResolveAssemblyReference.cache
+C:\Work\Training\NeuralNetworks\Perceptrons\Perceptrons\bin\Debug\Perceptrons.exe
+C:\Work\Training\NeuralNetworks\Perceptrons\Perceptrons\bin\Debug\Perceptrons.pdb
+C:\Work\Training\NeuralNetworks\Perceptrons\Perceptrons\obj\Debug\Perceptrons.exe
+C:\Work\Training\NeuralNetworks\Perceptrons\Perceptrons\obj\Debug\Perceptrons.pdb

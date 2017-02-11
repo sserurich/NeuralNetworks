@@ -1,0 +1,5 @@
+C:\Work\Training\NeuralNetworks\BackProp\BackProp\bin\Debug\BackProp.exe.config
+C:\Work\Training\NeuralNetworks\BackProp\BackProp\bin\Debug\BackProp.exe
+C:\Work\Training\NeuralNetworks\BackProp\BackProp\bin\Debug\BackProp.pdb
+C:\Work\Training\NeuralNetworks\BackProp\BackProp\obj\Debug\BackProp.exe
+C:\Work\Training\NeuralNetworks\BackProp\BackProp\obj\Debug\BackProp.pdb

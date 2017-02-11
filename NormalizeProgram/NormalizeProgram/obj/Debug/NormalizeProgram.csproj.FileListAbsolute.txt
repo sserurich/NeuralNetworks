@@ -1,0 +1,6 @@
+C:\Work\Training\NeuralNetworks\NormalizeProgram\NormalizeProgram\bin\Debug\NormalizeProgram.exe.config
+C:\Work\Training\NeuralNetworks\NormalizeProgram\NormalizeProgram\bin\Debug\NormalizeProgram.exe
+C:\Work\Training\NeuralNetworks\NormalizeProgram\NormalizeProgram\bin\Debug\NormalizeProgram.pdb
+C:\Work\Training\NeuralNetworks\NormalizeProgram\NormalizeProgram\obj\Debug\NormalizeProgram.csprojResolveAssemblyReference.cache
+C:\Work\Training\NeuralNetworks\NormalizeProgram\NormalizeProgram\obj\Debug\NormalizeProgram.exe
+C:\Work\Training\NeuralNetworks\NormalizeProgram\NormalizeProgram\obj\Debug\NormalizeProgram.pdb
